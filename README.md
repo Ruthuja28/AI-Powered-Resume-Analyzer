@@ -97,7 +97,8 @@ Matches skills with job descriptions for compatibility scoring
 Suggests skill improvements and course recommendations 
 Highlights strengths and weaknesses for better career opportunities 
 
-![image](<Screenshot 2025-11-16 021927.png>)
+![image]![Uploading image.png…]()
+
 
 ##**🤝 Contributing** 
 We welcome contributions! 
