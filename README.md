@@ -85,8 +85,11 @@ Highlights strengths and weaknesses for better career opportunities
 
 #**🤝 Contributing** 
 We welcome contributions! 
+
 Fork the repository 
+
 Create a new branch for your feature or bug fix 
+
 Submit a pull request with details of your changes 
 
 
